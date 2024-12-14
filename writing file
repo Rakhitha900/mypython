@@ -1,0 +1,4 @@
+#writing file
+file = open("/content/Raksha.txt", "w")
+file.write("Hello, World!\n")
+file.close()
